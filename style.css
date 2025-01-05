@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(246, 252, 145);
+    text-align: center;
+}
+
+h1{
+    color: #e33b11;
+}
+
+#mashup-application {
+    padding: 150px;
+}
+
+#search-area {
+    margin-top: 40px;
+}
+
+#input-box {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #20790c;
+    border-radius: 8px;
+}
+
+#fetch-btn, #blend-btn, #save-btn, #download-btn {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f59254;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+#fetch-btn:hover, #blend-btn:hover, #save-btn:hover, #download-btn:hover{
+    background-color: #c2600b;
+}
+
+#mashup-area {
+    margin: 10px;
+    padding: 10px 20px;
+}
