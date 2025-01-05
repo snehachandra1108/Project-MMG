@@ -22,7 +22,7 @@ h1 {
     border-radius: 8px;
 }
 
-#fetch-btn, #blend-btn, #save-btn, #download-btn {
+#fetch-btn, #download-btn {
     padding: 10px 15px;
     margin: 5px;
     border: none;
@@ -32,7 +32,7 @@ h1 {
     transition: background-color 0.3s;
 }
 
-#fetch-btn:hover, #blend-btn:hover, #save-btn:hover, #download-btn:hover {
+#fetch-btn:hover,#download-btn:hover {
     background-color: #c2600b;
 }
 
